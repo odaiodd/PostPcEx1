@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">self chat</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="message_ask">Type your message</string>
+    <string name="send_button">SEND</string>
+    <string name="textview">TextView</string>
+    <string name="sendmessage">sendMessage</string>
+</resources>
